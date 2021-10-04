@@ -1502,7 +1502,7 @@ Walls
 
 .. mdp:: wall-density
 
-   [nm\ :sup:`-3`] / [nm\ :sup:`-2`]
+   [nm\ :sup:`-3`] (wall type 9-3) or [nm\ :sup:`-2`] (wall type 10-4)
    the number density of the atoms for each wall for wall types 9-3
    and 10-4
 
